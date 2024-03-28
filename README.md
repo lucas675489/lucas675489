@@ -1,5 +1,4 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Silva</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas675489&color=yellow" alt="Profile views" /> </p>
 
 - 🌱 Estudando Java, Python e Javascript
 - 💞️ Atualmente estudo na FIAP
